@@ -1,0 +1,24 @@
+{
+  "name": "ntsp-less",
+  "version": "1.0.0",
+  "description": "NTSP: Less Examples",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "less"
+  ],
+  "author": "Blaz Orazem",
+  "license": "MIT",
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-clean-css": "^2.0.10",
+    "gulp-concat": "^2.6.0",
+    "gulp-less": "^3.1.0",
+    "gulp-less-sourcemap": "^1.4.3",
+    "gulp-sourcemaps": "^1.6.0"
+  }
+}
